@@ -1,0 +1,1413 @@
+{
+ "fuente": "Ejecución presupuestaria GCBA (BA Data), partida principal 3.6 Publicidad y propaganda",
+ "ipc_prom": {
+  "2013": 15.6748,
+  "2014": 21.6439,
+  "2015": 27.3878,
+  "2016": 38.7235,
+  "2017": 49.3998,
+  "2018": 66.173,
+  "2019": 100.0,
+  "2020": 137.1328,
+  "2021": 196.2494,
+  "2022": 333.7382,
+  "2023": 780.232,
+  "2024": 2544.6806,
+  "2025": 3725.4315,
+  "2026": 4919.804
+ },
+ "anios": {
+  "2013": {
+   "periodo": "cierre",
+   "s": 280765904,
+   "v": 597647712,
+   "d": 595900649,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     343278507,
+     250647136
+    ],
+    [
+     "Ministerio de Cultura",
+     99278993,
+     0
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     38263674,
+     10057532
+    ],
+    [
+     "Ministerio de Salud",
+     30420971,
+     1520000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     29839913,
+     0
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     21143992,
+     20000
+    ],
+    [
+     "Ministerio de Hacienda",
+     11057042,
+     11162583
+    ],
+    [
+     "Ministerio de Educacion",
+     10130075,
+     567700
+    ],
+    [
+     "Secretaría de Gestión Comunal y Atención Ciudadana",
+     2962322,
+     707884
+    ],
+    [
+     "Ministerio Publico",
+     2385830,
+     1421945
+    ],
+    [
+     "Ministerio de Desarrollo Urbano",
+     2061023,
+     9948
+    ],
+    [
+     "Consejo de la Magistratura",
+     1861640,
+     1762714
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     671221,
+     1860738
+    ],
+    [
+     "Ministerio de Modernizacion",
+     1020168,
+     0
+    ],
+    [
+     "Defensoria del Pueblo",
+     789454,
+     565715
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     470360,
+     2045
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     225910,
+     205490
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     39555,
+     130205
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     0,
+     124269
+    ]
+   ]
+  },
+  "2014": {
+   "periodo": "cierre",
+   "s": 441036361,
+   "v": 728304467,
+   "d": 720043801,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     423866120,
+     351678210
+    ],
+    [
+     "Ministerio de Cultura",
+     130326300,
+     50000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     55566280,
+     12174640
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     44999666,
+     0
+    ],
+    [
+     "Ministerio de Educacion",
+     35313261,
+     952720
+    ],
+    [
+     "Ministerio de Hacienda",
+     11987711,
+     15447000
+    ],
+    [
+     "Ministerio de Modernizacion",
+     2580657,
+     3497010
+    ],
+    [
+     "Consejo de la Magistratura",
+     3384883,
+     2250400
+    ],
+    [
+     "Defensoria del Pueblo",
+     3364743,
+     952079
+    ],
+    [
+     "Ministerio de Desarrollo Urbano",
+     2461829,
+     71440
+    ],
+    [
+     "Ministerio Publico",
+     1890944,
+     1449809
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     1051829,
+     1815573
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     1663292,
+     100000
+    ],
+    [
+     "Secretaría de Gestión Comunal y Atención Ciudadana",
+     553927,
+     0
+    ],
+    [
+     "Ministerio de Salud",
+     363856,
+     0
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     330365,
+     57647
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     156658,
+     290800
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     181481,
+     181633
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     0,
+     117400
+    ]
+   ]
+  },
+  "2015": {
+   "periodo": "cierre",
+   "s": 848544474,
+   "v": 1392499054,
+   "d": 1388101295,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     759595375,
+     708190182
+    ],
+    [
+     "Ministerio de Cultura",
+     209477673,
+     90000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     93806111,
+     14609568
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     77928238,
+     3000000
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     76273941,
+     5484350
+    ],
+    [
+     "Ministerio de Modernizacion",
+     64555216,
+     0
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     29204822,
+     0
+    ],
+    [
+     "Ministerio de Educacion",
+     20631547,
+     0
+    ],
+    [
+     "Ministerio de Salud",
+     20000640,
+     0
+    ],
+    [
+     "Ministerio de Hacienda",
+     13250720,
+     18510193
+    ],
+    [
+     "Ministerio Publico",
+     6393553,
+     2168670
+    ],
+    [
+     "Consejo de la Magistratura",
+     6227423,
+     3172391
+    ],
+    [
+     "Defensoria del Pueblo",
+     5858649,
+     2402495
+    ],
+    [
+     "Ministerio de Desarrollo Urbano",
+     2628322,
+     350000
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     1546200,
+     0
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     241656,
+     402339
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     99368,
+     254286
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     213843,
+     0
+    ],
+    [
+     "Secretaría de Gestión Comunal y Atención Ciudadana",
+     168000,
+     0
+    ]
+   ]
+  },
+  "2016": {
+   "periodo": "cierre",
+   "s": 945996846,
+   "v": 929891092,
+   "d": 886904503,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     423832441,
+     443390400
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     136157089,
+     110917614
+    ],
+    [
+     "Ministerio de Cultura",
+     85574740,
+     40000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     55366890,
+     59000000
+    ],
+    [
+     "Ministerio de Desarrollo Urbano y Transporte",
+     41867016,
+     53974850
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     18372012,
+     50000000
+    ],
+    [
+     "Ministerio de Salud",
+     46891395,
+     40000000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     32836021,
+     40000000
+    ],
+    [
+     "Obligaciones a Cargo del Tesoro",
+     0,
+     40000000
+    ],
+    [
+     "Ministerio de Educacion",
+     23772277,
+     30000000
+    ],
+    [
+     "Ministerio de Hacienda",
+     4980647,
+     21742893
+    ],
+    [
+     "Defensoria del Pueblo",
+     7863030,
+     7994657
+    ],
+    [
+     "Consejo de la Magistratura",
+     6427636,
+     5682396
+    ],
+    [
+     "Ministerio Publico",
+     1202920,
+     2247201
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     848900,
+     0
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     127383,
+     598083
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     435504,
+     418752
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     341244,
+     30000
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     7358,
+     0
+    ]
+   ]
+  },
+  "2017": {
+   "periodo": "cierre",
+   "s": 1181364789,
+   "v": 1289464161,
+   "d": 1263310727,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     793491729,
+     639359573
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     123193873,
+     115000000
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     49778022,
+     104306155
+    ],
+    [
+     "Ministerio de Desarrollo Urbano y Transporte",
+     73043052,
+     55485000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     68748025,
+     70800000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     51034600,
+     40000000
+    ],
+    [
+     "Ministerio de Salud",
+     29512445,
+     40000000
+    ],
+    [
+     "Ministerio de Cultura",
+     39496318,
+     40000000
+    ],
+    [
+     "Ministerio de Educacion",
+     6990780,
+     30000000
+    ],
+    [
+     "Ministerio de Hacienda",
+     8180629,
+     26902197
+    ],
+    [
+     "Consejo de la Magistratura",
+     11150158,
+     7073288
+    ],
+    [
+     "Defensoria del Pueblo",
+     4591503,
+     8676889
+    ],
+    [
+     "Ministerio Publico",
+     1899567,
+     2206628
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     1262240,
+     0
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     522821,
+     840000
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     224474,
+     704059
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     182181,
+     11000
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     5514,
+     0
+    ],
+    [
+     "Sindicatura General de la Ciudad de Buenos Aires",
+     2795,
+     0
+    ]
+   ]
+  },
+  "2018": {
+   "periodo": "cierre",
+   "s": 1253895369,
+   "v": 1778838752,
+   "d": 1659901593,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     1075945207,
+     677211841
+    ],
+    [
+     "Ministerio de Cultura",
+     127105061,
+     90000000
+    ],
+    [
+     "Ministerio de Desarrollo Urbano y Transporte",
+     113736520,
+     77197798
+    ],
+    [
+     "Ministerio de Modernización, Innovación y Tecnología",
+     54647170,
+     91947532
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     89860099,
+     70020000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     48105743,
+     80709935
+    ],
+    [
+     "Ministerio de Educación e Innovación",
+     68287616,
+     70000000
+    ],
+    [
+     "Ministerio de Salud",
+     19435683,
+     30000000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     29044092,
+     30000000
+    ],
+    [
+     "Consejo de la Magistratura",
+     12910475,
+     7356505
+    ],
+    [
+     "Ministerio de Economía y Finanzas",
+     7523318,
+     11616453
+    ],
+    [
+     "Defensoria del Pueblo",
+     7651669,
+     5902231
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     1506893,
+     7649082
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     1414462,
+     1500000
+    ],
+    [
+     "Ministerio Publico",
+     1382120,
+     1463144
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     1029496,
+     940806
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     190440,
+     380042
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     115729,
+     0
+    ],
+    [
+     "Sindicatura General de la Ciudad de Buenos Aires",
+     9800,
+     0
+    ],
+    [
+     "Ministerio de Gobierno",
+     0,
+     0
+    ]
+   ]
+  },
+  "2019": {
+   "periodo": "cierre",
+   "s": 1536095200,
+   "v": 2082567366,
+   "d": 2057585455,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     1261270138,
+     807207000
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     247493642,
+     150300000
+    ],
+    [
+     "Ministerio de Cultura",
+     104994635,
+     100000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     79768861,
+     95757550
+    ],
+    [
+     "Ministerio de Desarrollo Urbano y Transporte",
+     70526824,
+     82645346
+    ],
+    [
+     "Ministerio de Educación e Innovación",
+     70760108,
+     70000000
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     69745567,
+     70700000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     49736277,
+     50000000
+    ],
+    [
+     "Ministerio de Salud",
+     49639562,
+     40000000
+    ],
+    [
+     "Ministerio de Economía y Finanzas",
+     16562796,
+     23740000
+    ],
+    [
+     "Consejo de la Magistratura",
+     19355809,
+     14170200
+    ],
+    [
+     "Ministerio de Ambiente y Espacio Publico",
+     4596559,
+     13945165
+    ],
+    [
+     "Defensoria del Pueblo",
+     9996809,
+     13334762
+    ],
+    [
+     "Ministerio Publico",
+     1827606,
+     2010000
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     1223202,
+     1600209
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     68536,
+     534968
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     18524,
+     130000
+    ],
+    [
+     "Sindicatura General de la Ciudad de Buenos Aires",
+     0,
+     20000
+    ]
+   ]
+  },
+  "2020": {
+   "periodo": "cierre",
+   "s": 1863937045,
+   "v": 2554537269,
+   "d": 2545720624,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     1475727428,
+     940899107
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     244087866,
+     160300000
+    ],
+    [
+     "Ministerio de Salud",
+     208045464,
+     120000000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     126699059,
+     142463160
+    ],
+    [
+     "Ministerio de Educación",
+     120459507,
+     120000000
+    ],
+    [
+     "Ministerio de Cultura",
+     119999420,
+     120000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     113997820,
+     111292639
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     89967817,
+     90900000
+    ],
+    [
+     "Consejo de la Magistratura",
+     20009798,
+     23032000
+    ],
+    [
+     "Defensoria del Pueblo",
+     14310960,
+     15778323
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     10497000,
+     11238024
+    ],
+    [
+     "Ministerio Publico",
+     225000,
+     2827400
+    ],
+    [
+     "Ministerio de Desarrollo Económico y Producción",
+     1115648,
+     2823700
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     560635,
+     2080272
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     11520,
+     287420
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     5681,
+     15000
+    ]
+   ]
+  },
+  "2021": {
+   "periodo": "cierre",
+   "s": 2397829298,
+   "v": 5413692110,
+   "d": 5402303019,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     3319546195,
+     1301000000
+    ],
+    [
+     "Ministerio de Salud",
+     905588937,
+     110000000
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     253875600,
+     130000000
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     246783947,
+     240000000
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     173536226,
+     171351167
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     161085951,
+     112260000
+    ],
+    [
+     "Ministerio de Cultura",
+     139727479,
+     140000000
+    ],
+    [
+     "Ministerio de Educación",
+     120803168,
+     120000000
+    ],
+    [
+     "Consejo de la Magistratura",
+     21894565,
+     33078054
+    ],
+    [
+     "Defensoria del Pueblo",
+     13505252,
+     18933988
+    ],
+    [
+     "Ministerio de Espacio Publico e Higiene Urbana",
+     18798402,
+     0
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     15357521,
+     13786046
+    ],
+    [
+     "Ministerio de Desarrollo Económico y Producción",
+     6591425,
+     700000
+    ],
+    [
+     "Ministerio Publico",
+     2368000,
+     3947161
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     2654641,
+     2496330
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     0,
+     261552
+    ],
+    [
+     "Ministerio de Gobierno",
+     164400,
+     0
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     21310,
+     15000
+    ]
+   ]
+  },
+  "2022": {
+   "periodo": "cierre",
+   "s": 3473509530,
+   "v": 14049748343,
+   "d": 14002812095,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     9742646105,
+     1778300000
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     1171998759,
+     250000000
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     878764729,
+     348000000
+    ],
+    [
+     "Ministerio de Salud",
+     689964890,
+     180000000
+    ],
+    [
+     "Ministerio de Educación",
+     489530115,
+     200000000
+    ],
+    [
+     "Ministerio de Cultura",
+     336921746,
+     203000000
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     291284918,
+     161486504
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     268006440,
+     236310564
+    ],
+    [
+     "Consejo de la Magistratura",
+     45281178,
+     30010000
+    ],
+    [
+     "Defensoria del Pueblo",
+     17806292,
+     44614184
+    ],
+    [
+     "Ministerio de Espacio Publico e Higiene Urbana",
+     26014568,
+     3094825
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     20487000,
+     20409766
+    ],
+    [
+     "Ministerio de Desarrollo Económico y Producción",
+     16428527,
+     7019163
+    ],
+    [
+     "Ministerio Publico",
+     3758000,
+     7460784
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     3241512,
+     3245229
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     677316,
+     538511
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     0,
+     20000
+    ]
+   ]
+  },
+  "2023": {
+   "periodo": "cierre",
+   "s": 9416465020,
+   "v": 40845740717,
+   "d": 40776976487,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     29728131401,
+     5263786465
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     3354560965,
+     1321656574
+    ],
+    [
+     "Ministerio de Educación",
+     2289832801,
+     380122079
+    ],
+    [
+     "Ministerio de Salud",
+     1994103920,
+     570183118
+    ],
+    [
+     "Ministerio de Justicia y Seguridad",
+     1541032744,
+     475661704
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     794587732,
+     303147358
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     553456493,
+     536733652
+    ],
+    [
+     "Ministerio de Cultura",
+     280509937,
+     380854430
+    ],
+    [
+     "Consejo de la Magistratura",
+     100757265,
+     43803962
+    ],
+    [
+     "Defensoria del Pueblo",
+     31648026,
+     63781404
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     40840000,
+     26225600
+    ],
+    [
+     "Ministerio de Espacio Publico e Higiene Urbana",
+     39546926,
+     1615221
+    ],
+    [
+     "Ministerio de Desarrollo Económico y Producción",
+     15142946,
+     26345321
+    ],
+    [
+     "Ministerio Publico",
+     6165000,
+     13761648
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     6660331,
+     7889479
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     0,
+     875474
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     0,
+     21531
+    ]
+   ]
+  },
+  "2024": {
+   "periodo": "cierre",
+   "s": 34174443753,
+   "v": 99639521882,
+   "d": 99002088847,
+   "jur": [
+    [
+     "Ministerio de Desarrollo Económico",
+     32864287052,
+     12833190925
+    ],
+    [
+     "Jefatura de Gobierno",
+     30753710977,
+     8790462494
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     12525127721,
+     1940803737
+    ],
+    [
+     "Ministerio de Seguridad",
+     7344888831,
+     1134187
+    ],
+    [
+     "Ministerio de Salud",
+     5836860619,
+     1112590503
+    ],
+    [
+     "Ministerio de Educación",
+     2288911215,
+     3586961217
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     2543957408,
+     898019159
+    ],
+    [
+     "Ministerio de Justicia",
+     0,
+     1814402848
+    ],
+    [
+     "Ministerio de Cultura",
+     1689365736,
+     648176591
+    ],
+    [
+     "Ministerio de Infraestructura / Movilidad e Infraestructura",
+     1381634193,
+     1324293784
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     1178405991,
+     793208349
+    ],
+    [
+     "Consejo de la Magistratura",
+     320485281,
+     148943721
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     117735439,
+     111453021
+    ],
+    [
+     "Ministerio de Espacio Publico e Higiene Urbana",
+     109618708,
+     15557070
+    ],
+    [
+     "Defensoria del Pueblo",
+     18218754,
+     104667529
+    ],
+    [
+     "Ministerio Publico",
+     11551667,
+     29697740
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     17239256,
+     19135098
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     0,
+     1676127
+    ],
+    [
+     "Sindicatura General de la Ciudad de Buenos Aires",
+     90000,
+     0
+    ],
+    [
+     "Procuracion General de la Ciudad",
+     0,
+     69653
+    ]
+   ]
+  },
+  "2025": {
+   "periodo": "cierre",
+   "s": 76174339479,
+   "v": 126599819667,
+   "d": 125866445094,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     38987841376,
+     23334218085
+    ],
+    [
+     "Ministerio de Desarrollo Económico",
+     32862143927,
+     20470944708
+    ],
+    [
+     "Ministerio de Seguridad",
+     11516887603,
+     5138417215
+    ],
+    [
+     "Ministerio de Infraestructura / Movilidad e Infraestructura",
+     10861740504,
+     2565881653
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     8779391939,
+     4498886455
+    ],
+    [
+     "Ministerio de Educación",
+     1886217936,
+     7398393657
+    ],
+    [
+     "Ministerio de Salud",
+     6046780368,
+     2565881653
+    ],
+    [
+     "Ministerio de Justicia",
+     4890415847,
+     2565881653
+    ],
+    [
+     "Ministerio de Cultura",
+     4079066072,
+     2565881653
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     3701765209,
+     2565881653
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     1437102522,
+     1899437346
+    ],
+    [
+     "Consejo de la Magistratura",
+     514147446,
+     382821193
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     214938895,
+     0
+    ],
+    [
+     "Defensoria del Pueblo",
+     20012000,
+     142345202
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     45999999,
+     53555851
+    ],
+    [
+     "Ministerio Publico",
+     21793451,
+     21725685
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     0,
+     4185817
+    ],
+    [
+     "Sindicatura General de la Ciudad de Buenos Aires",
+     200000,
+     0
+    ]
+   ]
+  },
+  "2026": {
+   "periodo": "2T",
+   "s": 96091853080,
+   "v": 100329766215,
+   "d": 54731401438,
+   "jur": [
+    [
+     "Jefatura de Gobierno",
+     23801191688,
+     25290424539
+    ],
+    [
+     "Ministerio de Desarrollo Económico",
+     4456186782,
+     14033899574
+    ],
+    [
+     "Ministerio de Infraestructura / Movilidad e Infraestructura",
+     3455564242,
+     11154204865
+    ],
+    [
+     "Ministerio de Seguridad",
+     4703349543,
+     9360068625
+    ],
+    [
+     "Ministerio de Salud",
+     218346048,
+     8222587876
+    ],
+    [
+     "Jefatura de Gabinete de Ministros",
+     8062781688,
+     7783299858
+    ],
+    [
+     "Ministerio de Justicia",
+     2553206953,
+     5420834965
+    ],
+    [
+     "Ministerio de Desarrollo Humano y Hábitat",
+     1794403500,
+     5002164568
+    ],
+    [
+     "Ministerio de Cultura",
+     4004176365,
+     3781212447
+    ],
+    [
+     "Ministerio de Educación",
+     939776448,
+     3381237446
+    ],
+    [
+     "Legislatura de la Ciudad de Buenos Aires",
+     523188536,
+     1685253368
+    ],
+    [
+     "Consejo de la Magistratura",
+     152591113,
+     631012893
+    ],
+    [
+     "Defensoria del Pueblo",
+     320000,
+     142345202
+    ],
+    [
+     "Ministerio de Hacienda y Finanzas",
+     56765532,
+     96457779
+    ],
+    [
+     "Auditoria General de la Ciudad de Buenos Aires",
+     0,
+     67275000
+    ],
+    [
+     "Ministerio Publico",
+     9553000,
+     34711830
+    ],
+    [
+     "Tribunal Superior de Justicia",
+     0,
+     4862245
+    ]
+   ]
+  }
+ }
+}
